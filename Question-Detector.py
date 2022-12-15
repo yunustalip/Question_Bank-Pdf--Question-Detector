@@ -6,7 +6,7 @@ from matplotlib import pyplot as plt
 
 
 
-rsm = 'mtn/4.png'
+rsm = '4.png'
 image = cv2.imread(rsm)
 imagereel = cv2.imread(rsm)
 
